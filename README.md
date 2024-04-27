@@ -1,5 +1,4 @@
-# week1_task1
-Szkoła Reacta - week 1 - task 1
+# Is it leap year today?
 
 Checks if the year is a leap year
 
